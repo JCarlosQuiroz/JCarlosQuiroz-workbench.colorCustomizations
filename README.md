@@ -1,1 +1,1 @@
-# JCarlosQuiroz-workbench.colorCustomizations
+### Codigo necesario para modificar vscode
